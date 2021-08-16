@@ -1,0 +1,14 @@
+$brand-color: green;
+
+* {
+    color: $brand-color;
+}
+
+.is-active {
+    color: red;
+    font-weight: bold;
+}
+
+.navLink {
+    margin-right: 20px;
+}
